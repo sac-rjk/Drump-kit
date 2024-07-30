@@ -3,7 +3,7 @@
 Welcome to Drom Kit - your ultimate drumming experience brought to life! 🥁🎶
 ## Live Demo
 
-Here is the live domo of project[https://sachinrajak03.github.io/drum-kit/]
+Here is the live domo of project[https://sac-rjk.github.io/Drump-kit/]
 
 A
 
